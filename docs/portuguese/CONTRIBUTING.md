@@ -145,12 +145,12 @@ Leia nosso [Guia de como contribuir para <i>Open Source</i>](https://github.com/
 
 **O que esses rótulos diferentes marcados nas <i>issues</i> significam?**
 
-Nossa comunidade de moderadores faz uma [triagem](https://en.wikipedia.org/wiki/Software_bug#Bug_management) das <i>issues</i> e <i>pull requests</i> baseada em suas prioridades, gravidade e outros fatores. Você pode [encontrar um glossário completo dos seus significados aqui](https://github.com/freecodecamp/freecodecamp/labels).
+Nossa comunidade de moderadores faz uma [triagem](https://en.wikipedia.org/wiki/Software_bug#Bug_management) das <i>issues</i> e <i>"pull requests"</i> baseada em suas prioridades, gravidade e outros fatores. Você pode [encontrar um glossário completo dos seus significados aqui](https://github.com/freecodecamp/freecodecamp/labels).
 
 Você deveria passar pelas <i>issues</i> de **`Help Wanted`** (Ajuda necessária) ou **`first timers welcome`** (Iniciantes são bem vindos) para uma rápida consulta do que está livre para você trabalhar. Elas estão disponíveis e você não precisa de permissão para começar a trabalhar nelas.
 
 Se essas <i>issues</i> possuem falta de clareza do que deve ser feito, sinta-se livre para tirar suas dúvidas nos comentários.
 
-**Encontrei um erro de escrita, eu devo reportar antes de criar um <i>pull request</i>?**
+**Encontrei um erro de escrita, eu devo reportar antes de criar um <i>"pull request"</i>?**
 
-Você pode criar diretamente um <i>pull request</i> sem ter de reportar uma <i>issue</i> em casos de erros de escrita ou pequenas mudanças de palavreado. <i>Issues</i> são ferramentas para buscar confirmação em mudanças que você gostaria de propor por meio de um <i>pull request</i>.
+Você pode criar diretamente um <i>"pull request"</i> sem ter de reportar uma <i>issue</i> em casos de erros de escrita ou pequenas mudanças de palavreado. <i>"Issues"</i> são ferramentas para buscar confirmação em mudanças que você gostaria de propor por meio de um <i>"pull request"</i>.
